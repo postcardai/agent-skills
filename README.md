@@ -1,12 +1,12 @@
-# PostcardAI Agent Skills
+# Postcard AI Agent Skills
 
-Agent skills for working with the [PostcardAI](https://postcard.ai) platform.
+Agent skills for working with the [Postcard AI](https://postcard.ai) platform.
 
 ## Available Skills
 
 ### postcardai-cli
 
-Send AI-generated postcards via the PostcardAI CLI. Use when users want to send mail, manage contacts, create designs, or work with the PostcardAI platform.
+Send AI-generated postcards via the Postcard AI CLI. Use when users want to send mail, manage contacts, create designs, or work with the Postcard AI platform.
 
 **Install:**
 ```bash
@@ -21,6 +21,6 @@ Learn more at [skills.sh](https://skills.sh)
 
 ## Links
 
-- [PostcardAI](https://postcard.ai) - AI-powered direct mail platform
-- [PostcardAI CLI](https://www.npmjs.com/package/@postcardaidev/cli) - Command-line interface
+- [Postcard AI](https://postcard.ai) - AI-powered direct mail platform
+- [Postcard AI CLI](https://www.npmjs.com/package/@postcardaidev/cli) - Command-line interface
 - [API Documentation](https://docs.postcard.ai)

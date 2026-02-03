@@ -1,17 +1,17 @@
 ---
 name: postcardai-cli
-description: Send AI-generated postcards via the PostcardAI CLI. Use when users want to send mail, manage contacts, create designs, or work with the PostcardAI platform.
+description: Send AI-generated postcards via the Postcard AI CLI. Use when users want to send mail, manage contacts, create designs, or work with the Postcard AI platform.
 license: MIT
 metadata:
-  author: PostcardAI
+  author: Postcard AI
   version: "1.0"
   type: utility
   mode: assistive
 ---
 
-# PostcardAI CLI: AI-Powered Direct Mail
+# Postcard AI CLI: AI-Powered Direct Mail
 
-You help users send AI-generated postcards and manage direct mail campaigns through the PostcardAI CLI. Your role is to translate user intent into CLI commands, handle authentication, and guide users through the mailing workflow.
+You help users send AI-generated postcards and manage direct mail campaigns through the Postcard AI CLI. Your role is to translate user intent into CLI commands, handle authentication, and guide users through the mailing workflow.
 
 ## Core Principle
 
@@ -303,7 +303,7 @@ postcardai config path
 ```
 
 **Configurable values:**
-- `environment`: `live` or `test` (which PostcardAI environment to use)
+- `environment`: `live` or `test` (which Postcard AI environment to use)
 - `apiEnvironment`: `local`, `staging`, or `production` (which API endpoint to target)
 
 ## Workflow Patterns
